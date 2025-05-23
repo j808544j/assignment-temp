@@ -22,7 +22,7 @@ cd <project-directory>
 npm install
 ```
 
-3. Create `.env` file
+3. Create `.env` file and create MONGODB_URI variable in it
 
 
 ## Running the Application
