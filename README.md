@@ -2,13 +2,6 @@
 
 A simple Express.js backend for a B2C marketplace that provides REST APIs for featured categories, trending products, best-selling products, and banners.
 
-## Features
-
-- Featured Categories API
-- Trending Products API
-- Best Selling Products API
-- Banners API
-- MongoDB Integration
 
 ## Prerequisites
 
@@ -20,7 +13,7 @@ A simple Express.js backend for a B2C marketplace that provides REST APIs for fe
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:j808544j/assignment-temp.git
 cd <project-directory>
 ```
 
@@ -35,7 +28,7 @@ npm install
 ## Running the Application
 
 ```bash
-npm start
+npm run dev
 ```
 
 The server will start running on `http://localhost:3000`
@@ -56,16 +49,19 @@ The server will start running on `http://localhost:3000`
 
 ## Project Structure
 
-├── src/
-│ ├── models/ 
-│ │ ├── Product.js
-│ │ ├── Category.js
-│ │ └── Banner.js
-│ ├── routes/ # API routes
-│ └── config/ # Configuration files
-├── server.js # Main application file
-├── package.json # Project dependencies
-└── README.md # Project documentation
+## 📁 Project Structure
+
+- `src/`
+  - `models/` – Mongoose schemas
+    - `Product.js` – Product schema
+    - `Category.js` – Category schema
+    - `Banner.js` – Banner schema
+  - `routes/` – API routes
+  - `config/` – Configuration files (e.g., DB connection)
+- `server.js` – Entry point of the application
+- `package.json` – Project dependencies and scripts
+- `README.md` – Project documentation
+
 
 ## Dependencies
 
@@ -74,6 +70,3 @@ The server will start running on `http://localhost:3000`
 - cors
 - dotenv
 
-## License
-
-MIT
