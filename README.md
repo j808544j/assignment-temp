@@ -2,13 +2,6 @@
 
 A simple Express.js backend for a B2C marketplace that provides REST APIs for featured categories, trending products, best-selling products, and banners.
 
-## Features
-
-- RESTful API endpoints for marketplace data
-- CORS enabled for cross-origin requests
-- Dummy data included for testing
-- Simple and easy to set up
-
 ## API Endpoints
 
 1. **Featured Categories**
