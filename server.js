@@ -27,7 +27,6 @@ app.get('/api/banners', (req, res) => {
     res.json(banners);
 });
 
-// Start server
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 }); 

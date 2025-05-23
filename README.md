@@ -36,7 +36,7 @@ A simple Express.js backend for a B2C marketplace that provides REST APIs for fe
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:j808544j/assignment-temp.git
    cd <repository-name>
    ```
 
@@ -90,6 +90,3 @@ curl http://localhost:3000/api/banners
 - express: ^4.18.2
 - cors: ^2.8.5
 
-## License
-
-ISC 
