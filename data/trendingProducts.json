@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Earbuds",
+            "price": 79.99,
+            "image": "https://example.com/earbuds.jpg",
+            "rating": 4.5,
+            "reviews": 1200,
+            "category": "Electronics"
+        },
+        {
+            "id": 2,
+            "name": "Smart Watch",
+            "price": 199.99,
+            "image": "https://example.com/smartwatch.jpg",
+            "rating": 4.3,
+            "reviews": 850,
+            "category": "Electronics"
+        },
+        {
+            "id": 3,
+            "name": "Designer Handbag",
+            "price": 299.99,
+            "image": "https://example.com/handbag.jpg",
+            "rating": 4.7,
+            "reviews": 450,
+            "category": "Fashion"
+        },
+        {
+            "id": 4,
+            "name": "Running Shoes",
+            "price": 89.99,
+            "image": "https://example.com/shoes.jpg",
+            "rating": 4.4,
+            "reviews": 980,
+            "category": "Sports"
+        },
+        {
+            "id": 5,
+            "name": "Blender",
+            "price": 49.99,
+            "image": "https://example.com/blender.jpg",
+            "rating": 4.2,
+            "reviews": 650,
+            "category": "Home & Kitchen"
+        }
+    ]
+} 

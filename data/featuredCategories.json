@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "image": "https://example.com/electronics.jpg",
+            "productCount": 1500
+        },
+        {
+            "id": 2,
+            "name": "Fashion",
+            "image": "https://example.com/fashion.jpg",
+            "productCount": 3000
+        },
+        {
+            "id": 3,
+            "name": "Home & Kitchen",
+            "image": "https://example.com/home.jpg",
+            "productCount": 1200
+        },
+        {
+            "id": 4,
+            "name": "Beauty",
+            "image": "https://example.com/beauty.jpg",
+            "productCount": 800
+        },
+        {
+            "id": 5,
+            "name": "Sports",
+            "image": "https://example.com/sports.jpg",
+            "productCount": 600
+        }
+    ]
+} 

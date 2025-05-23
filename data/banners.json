@@ -1,0 +1,36 @@
+{
+    "banners": [
+        {
+            "id": 1,
+            "title": "Summer Sale",
+            "description": "Up to 50% off on selected items",
+            "image": "https://example.com/summer-sale.jpg",
+            "link": "/summer-sale",
+            "active": true
+        },
+        {
+            "id": 2,
+            "title": "New Arrivals",
+            "description": "Check out our latest products",
+            "image": "https://example.com/new-arrivals.jpg",
+            "link": "/new-arrivals",
+            "active": true
+        },
+        {
+            "id": 3,
+            "title": "Flash Sale",
+            "description": "24 hours only - Don't miss out!",
+            "image": "https://example.com/flash-sale.jpg",
+            "link": "/flash-sale",
+            "active": true
+        },
+        {
+            "id": 4,
+            "title": "Weekend Special",
+            "description": "Special deals for the weekend",
+            "image": "https://example.com/weekend-special.jpg",
+            "link": "/weekend-special",
+            "active": true
+        }
+    ]
+} 
